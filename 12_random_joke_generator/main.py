@@ -43,7 +43,7 @@ def main():
         """
     <div style='text-align:center;'>
         <p>Joke from Official Joke API</p>
-        <p>Build with ❤️ by <a href='https://github.com/AsharibAli'>Asharib Ali</a> using Streamlit</p>
+        <p>Build with ❤️ by <a href='https://github.com/shamama-khan'>Shamim Akhtar</a> using Streamlit</p>
     </div>
 """, 
         unsafe_allow_html=True
